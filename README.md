@@ -1,2 +1,2 @@
 # meetups-in-space-validations
-active records validations exercise from launch
+ActiveRecord validations exercise from launch
