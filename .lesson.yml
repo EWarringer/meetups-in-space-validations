@@ -1,0 +1,10 @@
+---
+title: "Meetups in Space - Part 3"
+type: "challenge"
+description: "Build a web app with Sinatra and Active Record to find places to hang out in space."
+tags: "sinatra, activerecord, validations"
+depends: "meetups-in-space-2"
+visibility: "assign"
+ignore:
+- "meetups-in-space-3-validations.md"
+- ".env"
